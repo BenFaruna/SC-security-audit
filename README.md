@@ -1,5 +1,4 @@
-# SC-security-audit
-# Audit Report of StorageVictim Contract
+# SC-security-audit of StorageVictim Contract
 
 ## Summary
 
